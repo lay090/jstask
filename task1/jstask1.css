@@ -1,0 +1,29 @@
+.wap{
+    max-width: 640px;
+    margin: 0 auto;
+    text-align: center;
+}
+.container{
+    overflow: hidden;
+    width: 100%;
+    padding-bottom: 1%;
+    border: 1px solid red;
+}
+.square{
+    float: left;
+    margin: 1% 0 0 1%;
+    padding: 16%;
+    color: rgb(1,1,1);
+    border-radius: 5px;
+    background-color: chocolate;
+}
+.contol{
+    padding: 2%;
+
+}
+#sub{
+    height: 200px;
+    width: 640px;
+    font-size: 2rem;
+    border: 1px solid black;
+}
